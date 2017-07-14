@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:Vimana/ThirdParty"
+      name = "ThirdParty">
+      <Group
+         location = "group:ObjectMapper"
+         name = "ObjectMapper">
+         <Group
+            location = "group:Converters"
+            name = "Converters">
+            <FileRef
+               location = "group:SimpleDateConverter.h">
+            </FileRef>
+            <FileRef
+               location = "group:SimpleDateConverter.m">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:ObjectMapper-Prefix.pch">
+         </FileRef>
+         <FileRef
+            location = "group:ObjectMapper.h">
+         </FileRef>
+         <FileRef
+            location = "group:ObjectMapper.m">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:Vayuyan.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
